@@ -1,0 +1,8 @@
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\bin\SelfStudyWebApp.dll
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\bin\SelfStudyWebApp.pdb
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\bin\SelfStudyWebApp.xml
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\obj\Debug\SelfStudyWebApp.Resources.resources
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\obj\Debug\SelfStudyWebApp.vbproj.GenerateResource.Cache
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\obj\Debug\SelfStudyWebApp.dll
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\obj\Debug\SelfStudyWebApp.xml
+C:\tmp\Test Projects\SelfStudyWebApp\SelfStudyWebApp\obj\Debug\SelfStudyWebApp.pdb
